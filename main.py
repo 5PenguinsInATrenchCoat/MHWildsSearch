@@ -1,5 +1,10 @@
-def main():
-  pass
+from search import Search
+from constants import *
 
-if __name__ == "main":
+def main():
+  search = Search()
+  search.read_armor(armor_path)
+  print(search.armor_data)
+
+if __name__ == "__main__":
   main()

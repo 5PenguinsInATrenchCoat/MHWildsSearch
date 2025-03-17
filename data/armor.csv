@@ -1,0 +1,21 @@
+#name, version, part, def, fire, water, thunder, ice, dragon, slot1, slot2, slot3, skill1, value, skill2, value, ingr1, value, ingr2, value, ingr3, value, ingr4, value
+
+
+Hope Mask, A, head, 26, 1, 0, 1, 0, 0, 1, , , divine blessing, 2, , , sturdy bone, 2, iron ore, 1, , , , 
+Hope Mail, A, body, 26, 1, 0, 1, 0, 0, 1, 1, 1, , poison resistance, 1, , , sturdy bone, 1, earth crystal, 1, , , ,
+Hope Vambraces, A, arms, 26, 1, 0, 1, 0, 0, 1, 1, 1, , sleep resistance, 1, , , earth crystal, 1, sturdy bone 2, , , , 
+Hope Coil, A, waist, 26, 1, 0, 1, 0, 0, 1, 1, , , divine blessing, 1, stun resistance, 1, sturdy bone, 1, iron ore, 1, , , ,
+Hope Greaves, A, legs, 26, 1, 0, 1, 0, 0, 1, 1, , , stun resistance, 2, , , sturdy bone, 3, , , , , , 
+
+Barina Headgear, A, head, -3, 3, 0, 0, 3, , , , paralysis resistance, 1, foray, 1, lala barina certificate S, 1, lala barina carapace, 3, lala barina claw+, 2, ,
+Barina Mail, A, body, -3, 3, 0, 0, 3, , , , recovery up, 2, evade window, 1, lala barina floret+, 2, lala barina carapace, 2, lala barina mucus+, 1, lala barina stinger+, 1
+Barina Vambraces, A, arms, -3, 3, 0, 0, 3, , , , recovery up, 1, foray, 1, monster broth, 1, lala barina certificate S, 1, lala barina claw+, 1, lala barina stinger+, 1
+Barina Coil, A, waist, -3, 3, 0, 0, 3, 2, , , paralysis resistance 2, , , lala barina floret+, 2, lala barina mucus+, 2, carbalite ore, 2, , 
+Barina Greaves, A, legs, -3, 3, 0, 0, 3, , , , evade window, 1, foray, 1, novacrystal, 1, lala barina certificate S, 1, lala barina floret+, 2, lala barina mucus+, 1
+
+Barina Headgear, B, head, -3, 3, 0, 0, 3, 1, , , foray, 1, , , lala barina certificate S, 1, lala barina carapace, 3, lala barina claw+, 2, ,
+Barina Mail, B, body, -3, 3, 0, 0, 3, 1, , , recovery up, 1, evade window, 1, lala barina floret+, 2, lala barina carapace, 2, lala barina mucus+, 1, lala barina stinger+, 1
+Barina Vambraces, B, arms, -3, 3, 0, 0, 3, 2, 1, , recovery up, 1, , , monster broth, 1, lala barina certificate S, 1, lala barina claw+, 1, lala barina stinger+, 1
+Barina Coil, B, waist, -3, 3, 0, 0, 3, 2, 1, , paralysis resistance, 1, , , lala barina floret+, 2, lala barina mucus+, 2, carbalite ore, 2, , 
+Barina Greaves, B, legs, -3, 3, 0, 0, 3, 1, 1, 1, evade window, 1, , , novacrystal, 1, lala barina certificate S, 1, lala barina floret+, 2, lala barina mucus+, 1
+
